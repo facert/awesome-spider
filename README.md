@@ -52,6 +52,7 @@
 
 ### [T]
 * [汤不热](https://github.com/Thoxvi/MyCar_python)
+* [TuShare](https://github.com/waditu/tushare)
 
 ### [V]
 * [视频信息爬虫](https://github.com/billvsme/videoSpider)
