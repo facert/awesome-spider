@@ -72,6 +72,7 @@
 * [知乎(python)](https://github.com/LiuRoy/zhihu_spider)
 * [知乎(php)](https://github.com/owner888/phpspider)
 * [知网](https://github.com/yanzhou/CnkiSpider)
+* [知乎妹子](https://github.com/yjm12321/zhihu-girl)
 
 ### [其他]
 * [各种爬虫](https://github.com/Nyloner/Nyspider)
