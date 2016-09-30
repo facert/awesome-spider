@@ -1,6 +1,6 @@
 # awesome-spider
 
-收集各种爬虫 （默认爬虫语言为 python）
+收集各种爬虫 （默认爬虫语言为 python）, 欢迎大家 pr 提 issue
 
 ### [B]
 * [Bilibili 用户](https://github.com/airingursb/bilibili-user)
