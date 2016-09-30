@@ -20,6 +20,7 @@
 
 ### [G]
 * [Girl-atlas](https://github.com/pein0119/girl-atlas-crawler)
+* [girl13](https://github.com/xuelangcxy/girlCrawler)
 
 ### [J]
 * [京东](https://github.com/taizilongxu/scrapy_jingdong)
