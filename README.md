@@ -26,6 +26,7 @@
 * [京东](https://github.com/taizilongxu/scrapy_jingdong)
 * [机票](https://github.com/fankcoder/findtrip)
 * [煎蛋妹纸](https://github.com/kulovecc/jandan_spider)
+* [今日头条](https://github.com/lzjqsdd/NewsSpider)
 
 ### [K]
 * [看知乎](https://github.com/atonasting/zhihuspider)
@@ -53,6 +54,7 @@
 ### [T]
 * [汤不热](https://github.com/Thoxvi/MyCar_python)
 * [TuShare](https://github.com/waditu/tushare)
+* [腾讯新闻](https://github.com/lzjqsdd/NewsSpider)
 
 ### [V]
 * [视频信息爬虫](https://github.com/billvsme/videoSpider)
@@ -62,6 +64,7 @@
 * [乌云公开漏洞](https://github.com/hanc00l/wooyun_public)
 * [微信公众号](https://github.com/bowenpay/wechat-spider)
 * [网易新闻](https://github.com/armysheng/tech163newsSpider)
+* [网易新闻](https://github.com/lzjqsdd/NewsSpider)
 * [网易精彩评论](https://github.com/dongweiming/commentbox)
 
 ### [X]
