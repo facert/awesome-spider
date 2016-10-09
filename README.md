@@ -1,6 +1,9 @@
 # awesome-spider
 
-收集各种爬虫 （默认爬虫语言为 python）, 欢迎大家 pr 提 issue, 收集脚本见 [github search](https://github.com/facert/github_search)
+收集各种爬虫 （默认爬虫语言为 python）, 欢迎大家 提 pr 或 issue, 收集脚本见此项目 [github-search](https://github.com/facert/github_search)
+
+### [A]
+* [alexaTop500](https://github.com/hellorocky/alexaTop500)
 
 ### [B]
 * [Bilibili 用户](https://github.com/airingursb/bilibili-user)
