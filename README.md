@@ -67,13 +67,11 @@
 * [微信公众号](https://github.com/bowenpay/wechat-spider)
 * [网易新闻](https://github.com/armysheng/tech163newsSpider)
 * [网易精彩评论](https://github.com/dongweiming/commentbox)
+* [微博主题搜索分析](https://github.com/luzhijun/weiboSA)
 
 ### [X]
 * [雪球股票信息(java)](https://github.com/decaywood/XueQiuSuperSpider)
 * [新浪微博](https://github.com/LiuXingMing/SinaSpider)
-
-### [W]
-* [微博主题搜索分析](https://github.com/luzhijun/weiboSA)
 
 ### [Y]
 * [英美剧 TV (node.js)](https://github.com/pockry/tv-crawler)
