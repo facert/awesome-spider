@@ -72,6 +72,9 @@
 * [雪球股票信息(java)](https://github.com/decaywood/XueQiuSuperSpider)
 * [新浪微博](https://github.com/LiuXingMing/SinaSpider)
 
+### [W]
+* [微博主题搜索分析](https://github.com/luzhijun/weiboSA)
+
 ### [Y]
 * [英美剧 TV (node.js)](https://github.com/pockry/tv-crawler)
 
