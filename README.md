@@ -3,6 +3,7 @@
 收集各种爬虫 （默认爬虫语言为 python）, 欢迎大家 提 pr 或 issue, 收集脚本见此项目 [github-search](https://github.com/facert/github_search)
 
 ### [A]
+* [暗网爬虫(Go)](https://github.com/s-rah/onionscan)
 * [alexaTop500](https://github.com/hellorocky/alexaTop500)
 
 ### [B]
