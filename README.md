@@ -12,6 +12,7 @@
 * [博客园(node.js)](https://github.com/chokcoco/cnblogSpider)
 * [百度百科(node.js)](https://github.com/nswbmw/micro-scraper)
 * [北邮人水木清华招聘](https://github.com/Marcus-T/Crawler_Job)
+* [百度云网盘](https://github.com/gudegg/yunSpider)
 
 ### [C]
 * [cnblog](https://github.com/jackgitgz/CnblogsSpider)
@@ -21,6 +22,7 @@
 * [豆瓣读书](https://github.com/lanbing510/DouBanSpider)
 * [豆瓣爬虫集](https://github.com/dontcontactme/doubanspiders)
 * [豆瓣害羞组](https://github.com/rockdai/haixiu)
+* [DNS记录和子域名](https://github.com/TheRook/subbrute)
 
 ### [G]
 * [Girl-atlas](https://github.com/pein0119/girl-atlas-crawler)
@@ -51,9 +53,14 @@
 * [QQ空间](https://github.com/LiuXingMing/QQSpider)
 * [QQ 群](https://github.com/caspartse/QQ-Groups-Spider)
 * [清华大学网络学堂爬虫](https://github.com/kehao95/thu_learn)
+* [去哪儿](https://github.com/lining0806/QunarSpider)
 
 ### [R]
 * [人人影视](https://github.com/gnehsoah/yyets-spider)
+* [RSS 爬虫](https://github.com/shanelau/rssSpider)
+
+### [S]
+* [soundcloud](https://github.com/Cortexelus/dadabots)
 
 ### [T]
 * [汤不热](https://github.com/Thoxvi/MyCar_python)
