@@ -30,6 +30,7 @@
 
 ### [J]
 * [京东](https://github.com/taizilongxu/scrapy_jingdong)
+* [京东搜索+评论](https://github.com/Chyroc/JDong)
 * [机票](https://github.com/fankcoder/findtrip)
 * [煎蛋妹纸](https://github.com/kulovecc/jandan_spider)
 * [今日头条，网易，腾讯等新闻](https://github.com/lzjqsdd/NewsSpider)
