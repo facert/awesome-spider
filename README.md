@@ -68,6 +68,7 @@
 ### [T]
 * [tumblr](https://github.com/facert/tumblr_spider)
 * [TuShare](https://github.com/waditu/tushare)
+* [天猫双12爬虫](https://github.com/LiuXingMing/Tmall1212)
 
 ### [V]
 * [视频信息爬虫](https://github.com/billvsme/videoSpider)
