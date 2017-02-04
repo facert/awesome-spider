@@ -5,6 +5,7 @@
 ### [A]
 * [暗网爬虫(Go)](https://github.com/s-rah/onionscan)
 * [alexaTop500](https://github.com/hellorocky/alexaTop500)
+* [爱丝APP图片爬虫](https://github.com/x-spiders/aiss-spider)
 
 ### [B]
 * [Bilibili 用户](https://github.com/airingursb/bilibili-user)
