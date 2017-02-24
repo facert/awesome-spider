@@ -63,6 +63,7 @@
 * [人人影视](https://github.com/gnehsoah/yyets-spider)
 * [RSS 爬虫](https://github.com/shanelau/rssSpider)
 * [rosi 妹子图](https://github.com/evilcos/crawlers)
+* [reddit 壁纸](https://github.com/tsarjak/WallpapersFromReddit)
 
 ### S
 * [soundcloud](https://github.com/Cortexelus/dadabots)
