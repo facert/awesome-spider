@@ -30,6 +30,9 @@
 * [Girl-atlas](https://github.com/pein0119/girl-atlas-crawler)
 * [girl13](https://github.com/xuelangcxy/girlCrawler)
 
+### I
+* [Instagram](https://github.com/xTEddie/Scrapstagram)
+
 ### J
 * [京东](https://github.com/taizilongxu/scrapy_jingdong)
 * [京东搜索+评论](https://github.com/Chyroc/JDong)
@@ -49,6 +52,7 @@
 ### M
 * [马蜂窝(node.js)](https://github.com/golmic/mafengwo-spider)
 * [MyCar](https://github.com/Thoxvi/MyCar_python)
+* [漫画喵 一键下载漫画~](https://github.com/miaoerduo/cartoon-cat)
 
 ### P
 * [Pixiv](https://github.com/littleVege/pixiv_crawl)
