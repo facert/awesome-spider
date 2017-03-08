@@ -26,6 +26,9 @@
 * [豆瓣害羞组](https://github.com/rockdai/haixiu)
 * [DNS记录和子域名](https://github.com/TheRook/subbrute)
 
+### E
+* [E绅士](https://github.com/shuiqukeyou/E-HentaiCrawler)
+
 ### G
 * [Girl-atlas](https://github.com/pein0119/girl-atlas-crawler)
 * [girl13](https://github.com/xuelangcxy/girlCrawler)
