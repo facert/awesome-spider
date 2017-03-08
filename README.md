@@ -48,6 +48,7 @@
 ### L
 * [链家](https://github.com/lanbing510/LianJiaSpider)
 * [拉勾](https://github.com/hk029/LagouSpider)
+* [炉石传说](https://github.com/youfou/hsdata)
 
 ### M
 * [马蜂窝(node.js)](https://github.com/golmic/mafengwo-spider)
