@@ -57,6 +57,7 @@
 * [马蜂窝(node.js)](https://github.com/golmic/mafengwo-spider)
 * [MyCar](https://github.com/Thoxvi/MyCar_python)
 * [漫画喵 一键下载漫画~](https://github.com/miaoerduo/cartoon-cat)
+* [妹子套图爬虫](https://github.com/chenjiandongx/mmjpg)
 
 ### P
 * [Pixiv](https://github.com/littleVege/pixiv_crawl)
