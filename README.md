@@ -32,6 +32,7 @@
 ### G
 * [Girl-atlas](https://github.com/pein0119/girl-atlas-crawler)
 * [girl13](https://github.com/xuelangcxy/girlCrawler)
+* [github trending](https://github.com/bonfy/github-trending)
 
 ### I
 * [Instagram](https://github.com/xTEddie/Scrapstagram)
@@ -52,6 +53,7 @@
 * [链家](https://github.com/lanbing510/LianJiaSpider)
 * [拉勾](https://github.com/hk029/LagouSpider)
 * [炉石传说](https://github.com/youfou/hsdata)
+* [leetcode](https://github.com/bonfy/leetcode)
 
 ### M
 * [马蜂窝(node.js)](https://github.com/golmic/mafengwo-spider)
