@@ -78,7 +78,7 @@
 
 ### S
 * [soundcloud](https://github.com/Cortexelus/dadabots)
-* [Stackoverflow100万条问答爬取并简单分析](https://github.com/chenjiandongx/stackoverflow)
+* [Stackoverflow100万问答](https://github.com/chenjiandongx/stackoverflow)
 
 ### T
 * [tumblr](https://github.com/facert/tumblr_spider)
