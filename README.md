@@ -32,6 +32,7 @@
 ### G
 * [Girl-atlas](https://github.com/pein0119/girl-atlas-crawler)
 * [girl13](https://github.com/xuelangcxy/girlCrawler)
+* [github trending](https://github.com/bonfy/github-trending)
 
 ### I
 * [Instagram](https://github.com/xTEddie/Scrapstagram)
@@ -52,6 +53,7 @@
 * [链家](https://github.com/lanbing510/LianJiaSpider)
 * [拉勾](https://github.com/hk029/LagouSpider)
 * [炉石传说](https://github.com/youfou/hsdata)
+* [leetcode](https://github.com/bonfy/leetcode)
 
 ### M
 * [马蜂窝(node.js)](https://github.com/golmic/mafengwo-spider)
@@ -79,10 +81,12 @@
 * [Stackoverflow 100万问答爬虫](https://github.com/chenjiandongx/stackoverflow)
 * [Shadowsocks 账号爬虫](https://github.com/chenjiandongx/soksaccounts)
 
+
 ### T
 * [tumblr](https://github.com/facert/tumblr_spider)
 * [TuShare](https://github.com/waditu/tushare)
 * [天猫双12爬虫](https://github.com/LiuXingMing/Tmall1212)
+* [Taobao mm](https://github.com/carlonelong/TaobaoMMCrawler)
 
 ### V
 * [视频信息爬虫](https://github.com/billvsme/videoSpider)
@@ -91,6 +95,7 @@
 ### W
 * [乌云公开漏洞](https://github.com/hanc00l/wooyun_public)
 * [微信公众号](https://github.com/bowenpay/wechat-spider)
+* [“代理”方式抓取微信公众号文章](https://github.com/lijinma/wechat_spider)
 * [网易新闻](https://github.com/armysheng/tech163newsSpider)
 * [网易精彩评论](https://github.com/dongweiming/commentbox)
 * [微博主题搜索分析](https://github.com/luzhijun/weiboSA)
