@@ -57,7 +57,7 @@
 * [马蜂窝(node.js)](https://github.com/golmic/mafengwo-spider)
 * [MyCar](https://github.com/Thoxvi/MyCar_python)
 * [漫画喵 一键下载漫画~](https://github.com/miaoerduo/cartoon-cat)
-* [妹子套图爬虫](https://github.com/chenjiandongx/mmjpg)
+* [美女写真套图爬虫](https://github.com/chenjiandongx/mmjpg)
 
 ### P
 * [Pixiv](https://github.com/littleVege/pixiv_crawl)
@@ -76,7 +76,8 @@
 
 ### S
 * [soundcloud](https://github.com/Cortexelus/dadabots)
-* [Stackoverflow100万条问答爬取并简单分析](https://github.com/chenjiandongx/stackoverflow)
+* [Stackoverflow 100万问答爬虫](https://github.com/chenjiandongx/stackoverflow)
+* [Shadowsocks 账号爬虫](https://github.com/chenjiandongx/soksaccounts)
 
 ### T
 * [tumblr](https://github.com/facert/tumblr_spider)
