@@ -33,6 +33,7 @@
 * [Girl-atlas](https://github.com/pein0119/girl-atlas-crawler)
 * [girl13](https://github.com/xuelangcxy/girlCrawler)
 * [github trending](https://github.com/bonfy/github-trending)
+* [Github 仓库及用户分析爬虫](https://github.com/chenjiandongx/Github)
 
 ### I
 * [Instagram](https://github.com/xTEddie/Scrapstagram)
