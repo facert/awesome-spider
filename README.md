@@ -114,6 +114,7 @@
 * [知乎(php)](https://github.com/owner888/phpspider)
 * [知网](https://github.com/yanzhou/CnkiSpider)
 * [知乎妹子](https://github.com/yjm12321/zhihu-girl)
+* [自如实时房源提醒](https://github.com/facert/ziroom_realtime_spider)
 
 ### 其他
 * [各种爬虫](https://github.com/Nyloner/Nyspider)
