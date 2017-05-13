@@ -101,6 +101,7 @@
 * [网易新闻](https://github.com/armysheng/tech163newsSpider)
 * [网易精彩评论](https://github.com/dongweiming/commentbox)
 * [微博主题搜索分析](https://github.com/luzhijun/weiboSA)
+* [网易云音乐](https://github.com/RitterHou/music-163)
 
 ### X
 * [雪球股票信息(java)](https://github.com/decaywood/XueQiuSuperSpider)
