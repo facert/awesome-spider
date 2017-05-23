@@ -70,7 +70,8 @@
 * [QQ空间](https://github.com/LiuXingMing/QQSpider)
 * [QQ 群](https://github.com/caspartse/QQ-Groups-Spider)
 * [清华大学网络学堂爬虫](https://github.com/kehao95/thu_learn)
-* [去哪儿](https://github.com/lining0806/QunarSpider)
+* [去哪儿](https://github.com/lining0806/QunarSpider)  
+* [前程无忧Python招聘岗位信息爬取分析](https://github.com/chenjiandongx/51job)
 
 ### R
 * [人人影视](https://github.com/gnehsoah/yyets-spider)
