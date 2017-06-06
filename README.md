@@ -34,7 +34,6 @@
 * [girl13](https://github.com/xuelangcxy/girlCrawler)
 * [github trending](https://github.com/bonfy/github-trending)
 * [Github 仓库及用户分析爬虫](https://github.com/chenjiandongx/Github)
-* [关于女性文胸尺码的深入探讨](https://github.com/chenjiandongx/cup-size)
 
 ### I
 * [Instagram](https://github.com/xTEddie/Scrapstagram)
@@ -91,6 +90,7 @@
 * [TuShare](https://github.com/waditu/tushare)
 * [天猫双12爬虫](https://github.com/LiuXingMing/Tmall1212)
 * [Taobao mm](https://github.com/carlonelong/TaobaoMMCrawler)
+* [Tmall 女性文胸尺码爬虫](https://github.com/chenjiandongx/cup-size)
 
 ### V
 * [视频信息爬虫](https://github.com/billvsme/videoSpider)
