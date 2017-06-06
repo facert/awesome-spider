@@ -90,6 +90,7 @@
 * [TuShare](https://github.com/waditu/tushare)
 * [天猫双12爬虫](https://github.com/LiuXingMing/Tmall1212)
 * [Taobao mm](https://github.com/carlonelong/TaobaoMMCrawler)
+* [Tmall 女性文胸尺码爬虫](https://github.com/chenjiandongx/cup-size)
 
 ### V
 * [视频信息爬虫](https://github.com/billvsme/videoSpider)
