@@ -113,6 +113,7 @@
 * [英美剧 TV (node.js)](https://github.com/pockry/tv-crawler)
 
 ### Z
+* [ZOL 手机壁纸爬虫](https://github.com/chenjiandongx/wallpaper)
 * [知乎(python)](https://github.com/LiuRoy/zhihu_spider)
 * [知乎(php)](https://github.com/owner888/phpspider)
 * [知网](https://github.com/yanzhou/CnkiSpider)
