@@ -66,6 +66,7 @@
 ### P
 * [Pixiv](https://github.com/littleVege/pixiv_crawl)
 * [PornHub](https://github.com/xiyouMc/WebHubBot)
+* [packtpub](https://github.com/niqdev/packtpub-crawler)
 
 ### Q
 * [QQ空间](https://github.com/LiuXingMing/QQSpider)
@@ -79,6 +80,7 @@
 * [RSS 爬虫](https://github.com/shanelau/rssSpider)
 * [rosi 妹子图](https://github.com/evilcos/crawlers)
 * [reddit 壁纸](https://github.com/tsarjak/WallpapersFromReddit)
+* [reddit](https://github.com/dannyvai/reddit_crawlers)
 
 ### S
 * [soundcloud](https://github.com/Cortexelus/dadabots)
