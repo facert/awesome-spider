@@ -111,6 +111,7 @@
 ### X
 * [雪球股票信息(java)](https://github.com/decaywood/XueQiuSuperSpider)
 * [新浪微博](https://github.com/LiuXingMing/SinaSpider)
+* [新浪微博分布式爬虫](https://github.com/ResolveWang/weibospider)
 
 ### Y
 * [英美剧 TV (node.js)](https://github.com/pockry/tv-crawler)
