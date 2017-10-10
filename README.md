@@ -63,6 +63,9 @@
 * [漫画喵 一键下载漫画~](https://github.com/miaoerduo/cartoon-cat)
 * 美女写真套图爬虫 [（一）](https://github.com/chenjiandongx/mmjpg)[（二）](https://github.com/chenjiandongx/mzitu)
 
+### N
+* [新闻监控](https://github.com/NolanZhao/news_feed)
+
 ### P
 * [Pixiv](https://github.com/littleVege/pixiv_crawl)
 * [PornHub](https://github.com/xiyouMc/WebHubBot)
