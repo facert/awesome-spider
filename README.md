@@ -36,6 +36,7 @@
 
 ### I
 * [Instagram](https://github.com/xTEddie/Scrapstagram)
+* [INC500 世界5000强爬虫](https://github.com/XetRAHF/Scrapping-INC500)
 
 ### J
 * [京东](https://github.com/taizilongxu/scrapy_jingdong)
