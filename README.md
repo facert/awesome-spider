@@ -56,6 +56,7 @@
 * [拉勾](https://github.com/hk029/LagouSpider)
 * [炉石传说](https://github.com/youfou/hsdata)
 * [leetcode](https://github.com/bonfy/leetcode)
+* [领英销售导航器爬虫 LinkedInSalesNavigator](https://github.com/XetRAHF/Spider_LinkedInSalesNavigatorURL)
 
 ### M
 * [马蜂窝(node.js)](https://github.com/golmic/mafengwo-spider)
