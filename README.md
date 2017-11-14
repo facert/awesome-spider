@@ -55,6 +55,7 @@
 ### L
 * [链家](https://github.com/lanbing510/LianJiaSpider)
 * [拉勾](https://github.com/hk029/LagouSpider)
+* [又一个拉勾爬虫](https://github.com/GuozhuHe/webspider) -> [可视化地址](http://www.jobinfo.cc:8000/)
 * [炉石传说](https://github.com/youfou/hsdata)
 * [leetcode](https://github.com/bonfy/leetcode)
 * [领英销售导航器爬虫 LinkedInSalesNavigator](https://github.com/XetRAHF/Spider_LinkedInSalesNavigatorURL)
