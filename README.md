@@ -99,6 +99,7 @@
 * [天猫双12爬虫](https://github.com/LiuXingMing/Tmall1212)
 * [Taobao mm](https://github.com/carlonelong/TaobaoMMCrawler)
 * [Tmall 女性文胸尺码爬虫](https://github.com/chenjiandongx/cup-size)
+* [淘宝直播弹幕爬虫(node)](https://github.com/xiaozhongliu/taobao-live-crawler)
 
 ### V
 * [视频信息爬虫](https://github.com/billvsme/videoSpider)
