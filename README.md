@@ -54,6 +54,7 @@
 
 ### L
 * [链家](https://github.com/lanbing510/LianJiaSpider)
+* [链家成交在售在租房源](https://github.com/XuefengHuang/lianjia-scrawler)
 * [拉勾](https://github.com/GuozhuHe/webspider)
 * [炉石传说](https://github.com/youfou/hsdata)
 * [leetcode](https://github.com/bonfy/leetcode)
