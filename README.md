@@ -45,6 +45,7 @@
 * [京东商品+评论](https://github.com/samrayleung/jd_spider)
 * [机票](https://github.com/fankcoder/findtrip)
 * [煎蛋妹纸](https://github.com/kulovecc/jandan_spider)
+* [煎蛋妹纸selenium版本](https://github.com/Tony-Chiong/jandan_spider)
 * [今日头条，网易，腾讯等新闻](https://github.com/lzjqsdd/NewsSpider)
 
 ### K
