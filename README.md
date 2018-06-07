@@ -97,6 +97,7 @@
 * [soundcloud](https://github.com/Cortexelus/dadabots)
 * [Stackoverflow 100万问答爬虫](https://github.com/chenjiandongx/stackoverflow)
 * [Shadowsocks 账号爬虫](https://github.com/chenjiandongx/soksaccounts)
+* [spider163 网易云音乐爬虫](https://github.com/chengyumeng/spider163)
 
 
 ### T
