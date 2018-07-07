@@ -25,6 +25,7 @@
 * [豆瓣爬虫集](https://github.com/dontcontactme/doubanspiders)
 * [豆瓣害羞组](https://github.com/rockdai/haixiu)
 * [DNS记录和子域名](https://github.com/TheRook/subbrute)
+* [DHT网络磁力种子爬虫](https://github.com/chenjiandongx/magnet-dht)
 
 ### E
 * [E绅士](https://github.com/shuiqukeyou/E-HentaiCrawler)
@@ -65,7 +66,7 @@
 * [马蜂窝(node.js)](https://github.com/golmic/mafengwo-spider)
 * [MyCar](https://github.com/Thoxvi/MyCar_python)
 * [漫画喵 一键下载漫画~](https://github.com/miaoerduo/cartoon-cat)
-* 美女写真套图爬虫 [（一）](https://github.com/chenjiandongx/mmjpg)[（二）](https://github.com/chenjiandongx/mzitu)
+* 美女写真套图爬虫 [（一）](https://github.com/chenjiandongx/mmjpg)[（二）](https://github.com/chenjiandongx/mzitu)[（三）](https://github.com/chenjiandongx/photo-gevent)
 
 ### N
 * [新闻监控](https://github.com/NolanZhao/news_feed)
