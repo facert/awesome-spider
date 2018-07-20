@@ -36,6 +36,9 @@
 * [github trending](https://github.com/bonfy/github-trending)
 * [Github 仓库及用户分析爬虫](https://github.com/chenjiandongx/Github)
 
+### H
+* [HDOJ爬虫](https://github.com/stevenshuang/spider/tree/master/hdoj)
+
 ### I
 * [Instagram](https://github.com/xTEddie/Scrapstagram)
 * [INC500 世界5000强爬虫](https://github.com/XetRAHF/Scrapping-INC500)
