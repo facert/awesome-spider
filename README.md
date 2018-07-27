@@ -66,7 +66,7 @@
 * [领英销售导航器爬虫 LinkedInSalesNavigator](https://github.com/XetRAHF/Spider_LinkedInSalesNavigatorURL)
 
 ### M
-* [马蜂窝(node.js)](https://github.com/golmic/mafengwo-spider)
+* [马蜂窝 用户足迹](https://github.com/eternal-flame-AD/mafengwo)
 * [MyCar](https://github.com/Thoxvi/MyCar_python)
 * [漫画喵 一键下载漫画~](https://github.com/miaoerduo/cartoon-cat)
 * 美女写真套图爬虫 [（一）](https://github.com/chenjiandongx/mmjpg)[（二）](https://github.com/chenjiandongx/mzitu)[（三）](https://github.com/chenjiandongx/photo-gevent)
