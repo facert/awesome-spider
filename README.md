@@ -102,6 +102,7 @@
 * [Stackoverflow 100万问答爬虫](https://github.com/chenjiandongx/stackoverflow)
 * [Shadowsocks 账号爬虫](https://github.com/chenjiandongx/soksaccounts)
 * [spider163 网易云音乐爬虫](https://github.com/chengyumeng/spider163)
+* [时光网电影数据和海报爬虫](https://github.com/Danielyan86/Movie-scrapy)
 
 
 ### T
