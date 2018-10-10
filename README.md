@@ -9,6 +9,7 @@
 ### B
 * [Bilibili 用户](https://github.com/airingursb/bilibili-user)
 * [Bilibili 视频](https://github.com/airingursb/bilibili-video)
+* [Bilibili 小视频](https://github.com/AngelKitty/bilibili-smallvideo)
 * [B站760万视频信息爬虫](https://github.com/chenjiandongx/bili-spider)
 * [博客园(node.js)](https://github.com/chokcoco/cnblogSpider)
 * [百度百科(node.js)](https://github.com/nswbmw/micro-scraper)
