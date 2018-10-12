@@ -16,6 +16,7 @@
 * [北邮人水木清华招聘](https://github.com/Marcus-T/Crawler_Job)
 * [百度云网盘](https://github.com/gudegg/yunSpider)
 * [琉璃神社爬虫](https://github.com/Chion82/hello-old-driver)
+* [Bing美图爬虫](https://github.com/zhangzp9970/GnomeBingLockScreen)
 
 ### C
 * [cnblog](https://github.com/jackgitgz/CnblogsSpider)
