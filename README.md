@@ -143,6 +143,10 @@
 * [知乎妹子](https://github.com/yjm12321/zhihu-girl)
 * [自如实时房源提醒](https://github.com/facert/ziroom_realtime_spider)
 
+### \#
+* [80s 影视资源爬虫 - JianSo_Movie](https://github.com/but0n/JianSo_Movie)
+
+
 ### 其他
 * [各种爬虫](https://github.com/Nyloner/Nyspider)
 * [DHT 爬虫](https://github.com/blueskyz/DHTCrawler)
