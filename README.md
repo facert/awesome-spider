@@ -71,6 +71,7 @@
 * [MyCar](https://github.com/Thoxvi/MyCar_python)
 * [漫画喵 一键下载漫画~](https://github.com/miaoerduo/cartoon-cat)
 * 美女写真套图爬虫 [（一）](https://github.com/chenjiandongx/mmjpg)[（二）](https://github.com/chenjiandongx/mzitu)[（三）](https://github.com/chenjiandongx/photo-gevent)
+* [妹子图](https://github.com/3inchtime/mmjpg_spider)
 
 ### N
 * [新闻监控](https://github.com/NolanZhao/news_feed)
@@ -148,4 +149,3 @@
 * [DHT 爬虫](https://github.com/blueskyz/DHTCrawler)
 * [SimDHT](https://github.com/dontcontactme/simDHT)
 * [p2pspider](https://github.com/dontcontactme/p2pspider)
-
