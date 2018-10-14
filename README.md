@@ -71,6 +71,7 @@
 * [马蜂窝 用户足迹](https://github.com/eternal-flame-AD/mafengwo)
 * [MyCar](https://github.com/Thoxvi/MyCar_python)
 * [漫画喵 一键下载漫画~](https://github.com/miaoerduo/cartoon-cat)
+* [MM131性感美女写真图全爬取](https://github.com/qwertyuiop6/mm131)
 * 美女写真套图爬虫 [（一）](https://github.com/chenjiandongx/mmjpg)[（二）](https://github.com/chenjiandongx/mzitu)[（三）](https://github.com/chenjiandongx/photo-gevent)
 
 ### N
@@ -116,6 +117,7 @@
 * [淘宝直播弹幕爬虫(node)](https://github.com/xiaozhongliu/taobao-live-crawler)
 
 ### V
+* [Youtube字幕下载](https://github.com/qwertyuiop6/get_youtube_subtitle)
 * [视频信息爬虫](https://github.com/billvsme/videoSpider)
 * [电影网站](https://github.com/chenqing/spider)
 
