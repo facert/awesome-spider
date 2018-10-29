@@ -111,6 +111,7 @@
 
 ### T
 * [tumblr](https://github.com/facert/tumblr_spider)
+* [下载tumblr喜欢内容](https://github.com/cyang812/get_tumblr_likes)
 * [TuShare](https://github.com/waditu/tushare)
 * [天猫双12爬虫](https://github.com/LiuXingMing/Tmall1212)
 * [Taobao mm](https://github.com/carlonelong/TaobaoMMCrawler)
