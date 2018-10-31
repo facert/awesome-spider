@@ -28,6 +28,7 @@
 * [豆瓣害羞组](https://github.com/rockdai/haixiu)
 * [DNS记录和子域名](https://github.com/TheRook/subbrute)
 * [DHT网络磁力种子爬虫](https://github.com/chenjiandongx/magnet-dht)
+* [抖音](https://github.com/Python3WebSpider/DouYin)
 
 ### E
 * [E绅士](https://github.com/shuiqukeyou/E-HentaiCrawler)
