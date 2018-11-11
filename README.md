@@ -26,6 +26,7 @@
 * [豆瓣读书](https://github.com/lanbing510/DouBanSpider)
 * [豆瓣爬虫集](https://github.com/dontcontactme/doubanspiders)
 * [豆瓣害羞组](https://github.com/rockdai/haixiu)
+* [豆瓣图书广度爬取](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/%E8%B1%86%E7%93%A3%E5%9B%BE%E4%B9%A6%E6%B7%B1%E5%BA%A6%E7%88%AC%E5%8F%96)
 * [DNS记录和子域名](https://github.com/TheRook/subbrute)
 * [DHT网络磁力种子爬虫](https://github.com/chenjiandongx/magnet-dht)
 * [抖音](https://github.com/Python3WebSpider/DouYin)
@@ -54,6 +55,7 @@
 * [煎蛋妹纸](https://github.com/kulovecc/jandan_spider)
 * [煎蛋妹纸selenium版本](https://github.com/Tony-Chiong/jandan_spider)
 * [今日头条，网易，腾讯等新闻](https://github.com/lzjqsdd/NewsSpider)
+* [计算机书籍控图书](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/Book)
 
 ### K
 * [看知乎](https://github.com/atonasting/zhihuspider)
@@ -118,6 +120,8 @@
 * [Taobao mm](https://github.com/carlonelong/TaobaoMMCrawler)
 * [Tmall 女性文胸尺码爬虫](https://github.com/chenjiandongx/cup-size)
 * [淘宝直播弹幕爬虫(node)](https://github.com/xiaozhongliu/taobao-live-crawler)
+* [天涯论坛文章](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/%E7%88%AC%E5%8F%96%E8%AE%BA%E5%9D%9B%E6%96%87%E7%AB%A0)
+
 
 ### V
 * [Youtube字幕下载](https://github.com/qwertyuiop6/get_youtube_subtitle)
@@ -132,6 +136,8 @@
 * [网易精彩评论](https://github.com/dongweiming/commentbox)
 * [微博主题搜索分析](https://github.com/luzhijun/weiboSA)
 * [网易云音乐](https://github.com/RitterHou/music-163)
+* [新.网易热评](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/%E7%BD%91%E6%98%93%E4%BA%91%E7%83%AD%E8%AF%84%E7%88%AC%E5%8F%96)
+* [唯品会商品](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/vip)
 
 ### X
 * [雪球股票信息(java)](https://github.com/decaywood/XueQiuSuperSpider)
