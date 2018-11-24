@@ -77,6 +77,7 @@
 * [MM131性感美女写真图全爬取](https://github.com/qwertyuiop6/mm131)
 * 美女写真套图爬虫 [（一）](https://github.com/chenjiandongx/mmjpg)[（二）](https://github.com/chenjiandongx/mzitu)[（三）](https://github.com/chenjiandongx/photo-gevent)
 * [妹子图](https://github.com/3inchtime/mmjpg_spider)
+* [猫眼网电影评分](https://github.com/CasterWx/python-maoyan-spider)
 
 ### N
 * [新闻监控](https://github.com/NolanZhao/news_feed)
