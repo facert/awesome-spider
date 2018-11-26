@@ -81,6 +81,7 @@
 
 ### N
 * [新闻监控](https://github.com/NolanZhao/news_feed)
+* [你好污啊](https://github.com/sy-records/speech_spiders/tree/master/nihaowu)
 
 ### O
 * [ofo共享单车爬虫](https://github.com/SilverBooker/ofoSpider)
@@ -144,6 +145,7 @@
 * [雪球股票信息(java)](https://github.com/decaywood/XueQiuSuperSpider)
 * [新浪微博](https://github.com/LiuXingMing/SinaSpider)
 * [新浪微博分布式爬虫](https://github.com/ResolveWang/weibospider)
+* [心灵毒鸡汤](https://github.com/sy-records/speech_spiders/tree/master/chicken-soup)
 
 ### Y
 * [英美剧 TV (node.js)](https://github.com/pockry/tv-crawler)
