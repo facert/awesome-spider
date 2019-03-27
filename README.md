@@ -158,7 +158,7 @@
 * [知网](https://github.com/yanzhou/CnkiSpider)
 * [知乎妹子](https://github.com/yjm12321/zhihu-girl)
 * [自如实时房源提醒](https://github.com/facert/ziroom_realtime_spider)
-
+* [中国大陆高校列表爬虫](https://github.com/codeudan/crawler-china-mainland-universities.git)
 ### \#
 * [80s 影视资源爬虫 - JianSo_Movie](https://github.com/but0n/JianSo_Movie)
 
