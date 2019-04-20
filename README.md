@@ -18,6 +18,7 @@
 * [百度云网盘](https://github.com/gudegg/yunSpider)
 * [琉璃神社爬虫](https://github.com/Chion82/hello-old-driver)
 * [Boss 直聘](https://github.com/xianyunyh/spider_job)
+* [贝壳网找房爬虫](https://github.com/qzcool/Ke)
 
 ### C
 * [cnblog](https://github.com/jackgitgz/CnblogsSpider)
@@ -124,6 +125,7 @@
 * [Tmall 女性文胸尺码爬虫](https://github.com/chenjiandongx/cup-size)
 * [淘宝直播弹幕爬虫(node)](https://github.com/xiaozhongliu/taobao-live-crawler)
 * [天涯论坛文章](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/%E7%88%AC%E5%8F%96%E8%AE%BA%E5%9D%9B%E6%96%87%E7%AB%A0)
+* [天眼查爬虫](https://github.com/qzcool/Tianyancha)
 
 
 ### V
