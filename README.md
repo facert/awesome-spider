@@ -41,6 +41,7 @@
 * [girl13](https://github.com/xuelangcxy/girlCrawler)
 * [github trending](https://github.com/bonfy/github-trending)
 * [Github 仓库及用户分析爬虫](https://github.com/chenjiandongx/Github)
+* [国家统计用区划代码和城乡划分代码爬虫](https://github.com/dta0502/NBSPRC-spider)
 
 ### H
 * [HDOJ爬虫](https://github.com/stevenshuang/spider/tree/master/hdoj)
