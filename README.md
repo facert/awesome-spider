@@ -32,6 +32,7 @@
 * [DNS记录和子域名](https://github.com/TheRook/subbrute)
 * [DHT网络磁力种子爬虫](https://github.com/chenjiandongx/magnet-dht)
 * [抖音](https://github.com/Python3WebSpider/DouYin)
+* [抖音推荐](https://github.com/cnbattle/douyin)
 
 ### E
 * [E绅士](https://github.com/shuiqukeyou/E-HentaiCrawler)
