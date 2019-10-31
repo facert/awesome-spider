@@ -60,6 +60,7 @@
 * [煎蛋妹纸selenium版本](https://github.com/Tony-Chiong/jandan_spider)
 * [今日头条，网易，腾讯等新闻](https://github.com/lzjqsdd/NewsSpider)
 * [计算机书籍控图书](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/Book)
+* [JK (制服写真) 爬虫](https://github.com/CourierKyn/jkcrawler)
 
 ### K
 * [看知乎](https://github.com/atonasting/zhihuspider)
