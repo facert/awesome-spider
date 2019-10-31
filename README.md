@@ -151,6 +151,7 @@
 * [新浪微博](https://github.com/LiuXingMing/SinaSpider)
 * [新浪微博分布式爬虫](https://github.com/ResolveWang/weibospider)
 * [心灵毒鸡汤](https://github.com/sy-records/speech_spiders/tree/master/chicken-soup)
+* [闲鱼最新商品爬取](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/XianyuCrawler)
 
 ### Y
 * [英美剧 TV (node.js)](https://github.com/pockry/tv-crawler)
