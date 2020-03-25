@@ -1,6 +1,12 @@
 # awesome-spider
 
+
+
 收集各种爬虫 （默认爬虫语言为 python）, 欢迎大家 提 pr 或 issue, 收集脚本见此项目 [github-search](https://github.com/facert/github_search)
+
+
+warning: 爬虫有时效性，大部分已没法运行
+
 
 ### A
 * [暗网爬虫(Go)](https://github.com/s-rah/onionscan)
