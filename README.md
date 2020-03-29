@@ -149,6 +149,7 @@ warning: 爬虫有时效性，大部分已没法运行
 * [“代理”方式抓取微信公众号文章](https://github.com/lijinma/wechat_spider)
 * [网易新闻](https://github.com/armysheng/tech163newsSpider)
 * [网易精彩评论](https://github.com/dongweiming/commentbox)
+* [微博图片爬虫](https://github.com/lonsty/weibo-image-spider)
 * [微博主题搜索分析](https://github.com/luzhijun/weiboSA)
 * [网易云音乐](https://github.com/RitterHou/music-163)
 * [新.网易热评](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/%E7%BD%91%E6%98%93%E4%BA%91%E7%83%AD%E8%AF%84%E7%88%AC%E5%8F%96)
