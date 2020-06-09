@@ -5,7 +5,7 @@
 收集各种爬虫 （默认爬虫语言为 python）, 欢迎大家 提 pr 或 issue, 收集脚本见此项目 [github-search](https://github.com/facert/github_search)
 
 
-warning: 爬虫有时效性，大部分已没法运行
+warning: 爬虫有时效性，大部分没法直接运行，需要适当更改逻辑。
 
 
 ### A
@@ -181,3 +181,10 @@ warning: 爬虫有时效性，大部分已没法运行
 * [DHT 爬虫](https://github.com/blueskyz/DHTCrawler)
 * [SimDHT](https://github.com/dontcontactme/simDHT)
 * [p2pspider](https://github.com/dontcontactme/p2pspider)
+
+
+
+
+欢迎大家关注公众号 
+
+![](https://github.com/facert/python-data-structure-cn/blob/master/mp1.png)
