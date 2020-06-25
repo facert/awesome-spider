@@ -1,5 +1,5 @@
-![https://tracking.gitads.io/?repo=awesome-spider](https://images.gitads.io/awesome-spider)
 
+<a target="_blank" href="https://tracking.gitads.io/?repo=awesome-spider"><img src="https://images.gitads.io/awesome-spider"></a>
 
 # awesome-spider
 
