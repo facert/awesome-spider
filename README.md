@@ -1,3 +1,6 @@
+![https://tracking.gitads.io/?repo=awesome-spider](https://images.gitads.io/awesome-spider)
+
+
 # awesome-spider
 
 
@@ -5,7 +8,7 @@
 收集各种爬虫 （默认爬虫语言为 python）, 欢迎大家 提 pr 或 issue, 收集脚本见此项目 [github-search](https://github.com/facert/github_search)
 
 
-warning: 爬虫有时效性，大部分没法直接运行，需要适当更改逻辑。
+warning: 爬虫有时效性，如没法直接运行，请适当更改逻辑。
 
 
 ### A
