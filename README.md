@@ -190,4 +190,4 @@ warning: 爬虫有时效性，如没法直接运行，请适当更改逻辑。
 
 欢迎大家关注公众号 
 
-![](https://github.com/facert/python-data-structure-cn/blob/master/mp1.png)
+![facert](https://github.com/facert/python-data-structure-cn/blob/master/mp1.png)
