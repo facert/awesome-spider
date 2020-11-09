@@ -7,6 +7,13 @@
 
 warning: 爬虫有时效性，如没法直接运行，请适当更改逻辑。
 
+<hr>
+
+##### [Castbee](https://castbee.net/) 主题订阅追踪服务，创建和发布来自于不同源(Rss 微博 知乎 Twitter Youtube)的信息聚合。
+
+<a href="https://castbee.net/" target="_blank"><img src="https://pic4.zhimg.com/v2-203225eef7bdeff21636d657da8d629b_b.png"></a>
+
+
 
 ### A
 * [暗网爬虫(Go)](https://github.com/s-rah/onionscan)
