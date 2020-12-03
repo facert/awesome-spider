@@ -5,12 +5,20 @@
 收集各种爬虫 （默认爬虫语言为 python）, 欢迎大家 提 pr 或 issue, 收集脚本见此项目 [github-search](https://github.com/facert/github_search)
 
 
-warning: 爬虫有时效性，大部分已没法运行
+warning: 爬虫有时效性，如没法直接运行，请适当更改逻辑。
+
+<hr>
+
+##### [Castbee](https://castbee.net/) 主题订阅追踪服务，创建和发布来自于不同源(Rss 微博 知乎 Twitter Youtube)的信息聚合。
+
+<a href="https://castbee.net/" target="_blank"><img src="https://pic4.zhimg.com/v2-203225eef7bdeff21636d657da8d629b_b.png"></a>
+
 
 
 ### A
 * [暗网爬虫(Go)](https://github.com/s-rah/onionscan)
 * [爱丝APP图片爬虫](https://github.com/x-spiders/aiss-spider)
+* [1688以图搜货](https://github.com/Carmenliukang/1688_crawler-image_search_products)
 
 ### B
 * [Bilibili 用户](https://github.com/airingursb/bilibili-user)
@@ -149,6 +157,7 @@ warning: 爬虫有时效性，大部分已没法运行
 * [“代理”方式抓取微信公众号文章](https://github.com/lijinma/wechat_spider)
 * [网易新闻](https://github.com/armysheng/tech163newsSpider)
 * [网易精彩评论](https://github.com/dongweiming/commentbox)
+* [微博图片爬虫](https://github.com/lonsty/weibo-image-spider)
 * [微博主题搜索分析](https://github.com/luzhijun/weiboSA)
 * [网易云音乐](https://github.com/RitterHou/music-163)
 * [新.网易热评](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/%E7%BD%91%E6%98%93%E4%BA%91%E7%83%AD%E8%AF%84%E7%88%AC%E5%8F%96)
@@ -181,3 +190,10 @@ warning: 爬虫有时效性，大部分已没法运行
 * [DHT 爬虫](https://github.com/blueskyz/DHTCrawler)
 * [SimDHT](https://github.com/dontcontactme/simDHT)
 * [p2pspider](https://github.com/dontcontactme/p2pspider)
+
+
+
+
+欢迎大家关注公众号 
+
+![facert](https://github.com/facert/python-data-structure-cn/blob/master/mp1.png)
