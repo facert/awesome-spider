@@ -169,6 +169,7 @@ warning: 爬虫有时效性，如没法直接运行，请适当更改逻辑。
 * [新浪微博分布式爬虫](https://github.com/ResolveWang/weibospider)
 * [心灵毒鸡汤](https://github.com/sy-records/speech_spiders/tree/master/chicken-soup)
 * [闲鱼最新商品爬取](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/XianyuCrawler)
+* [H 片下载工具（xvideos.com）](https://github.com/lonsty/xvideos-dl)
 
 ### Y
 * [英美剧 TV (node.js)](https://github.com/pockry/tv-crawler)
@@ -182,6 +183,7 @@ warning: 爬虫有时效性，如没法直接运行，请适当更改逻辑。
 * [自如实时房源提醒](https://github.com/facert/ziroom_realtime_spider)
 * [中国大陆高校列表爬虫](https://github.com/codeudan/crawler-china-mainland-universities.git)
 * [站酷（zcool.com.cn）图片爬虫](https://github.com/lonsty/scraper)
+
 ### \#
 * [80s 影视资源爬虫 - JianSo_Movie](https://github.com/but0n/JianSo_Movie)
 
