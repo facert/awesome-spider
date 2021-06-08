@@ -3,8 +3,10 @@
 --------------------------
 
 
+
 <a href="https://brightdata.grsm.io/zhangchaoran5322"><img src="https://user-images.githubusercontent.com/4927218/119819524-08f58200-bf23-11eb-93f5-771924a3fb83.png"></a>
 
+[Brigtdata，旧名Luminati](https://brightdata.grsm.io/zhangchaoran5322) 目前是海外最牛的全球真人住宅IP代理。除了有点儿小贵，没毛病，成功率99%。 现在在搞优惠活动，需要高质量的稳定代理的可以考虑一下，使用任何套餐的客户都可以送150-250美金. 具体点击链接注册后根据邮件联系中文客服哦。
 
 ----------------------------
 
