@@ -112,6 +112,7 @@ warning: 爬虫有时效性，如没法直接运行，请适当更改逻辑。
 * [PornHub](https://github.com/xiyouMc/WebHubBot)
 * [packtpub](https://github.com/niqdev/packtpub-crawler)
 * [91porn](https://github.com/eqblog/91_porn_spider)
+* [PHPCreeper（爬山虎：全新一代基于workerman多进程异步驱动爬虫引擎）](https://github.com/blogdaren/PHPCreeper)
 
 ### Q
 * [QQ空间](https://github.com/LiuXingMing/QQSpider)
