@@ -1,7 +1,7 @@
 # awesome-spider
 
 --------------------------
-IPIDEA 全球互联网大数据 IP资源服务商
+<a href="http://www.ipidea.net/?utm-source=facert&utm-keyword=?facert"> IPIDEA </a> 全球互联网大数据 IP资源服务商
 优势：
 1、覆盖220+的国家和地区，9000万真实住宅IP资源，汇聚成大规模代理服务池。
 
@@ -13,7 +13,7 @@ IPIDEA 全球互联网大数据 IP资源服务商
 
 5、新用户最高可免费领取1GB
 
-<a href="http://www.ipidea.net/?utm-source=facert&utm-keyword=?facert"><img src="https://user-images.githubusercontent.com/4927218/119819524-08f58200-bf23-11eb-93f5-771924a3fb83.png"></a>
+<a href="http://www.ipidea.net/?utm-source=facert&utm-keyword=?facert"><img src="https://raw.githubusercontent.com/facert/awesome-spider/8b0afba41e14f296e31f2b36f6329135bac5a746/proxy-ipidea.png"></a>
 
 ----------------------------
 
