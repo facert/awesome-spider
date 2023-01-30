@@ -1,21 +1,9 @@
 # awesome-spider
 
 --------------------------
-<a href="http://www.ipidea.net/?utm-source=facert&utm-keyword=?facert"> IPIDEA </a> 全球互联网大数据 IP资源服务商
+<a href="https://brightdata.grsm.io/zhangchaoran5322"><img src="https://user-images.githubusercontent.com/4927218/119819524-08f58200-bf23-11eb-93f5-771924a3fb83.png"></a>
 
-优势：
-
-1、覆盖220+的国家和地区，9000万真实住宅IP资源，汇聚成大规模代理服务池。
-
-2、提供动态住宅代理、静态住宅代理、数据中心、移动代理等多种解决方案，满足电子商务、市场调查、抓取索引、网站测试、广告验证、seo监控优化等多个业务场景。
-
-3、支持HTTP/HTTPS/Socks5协议
-
-4、真实住宅IP，支持从制定国家城市访问目标网站，隐藏真实网络环境，保护隐私，24小时持续过滤并更新，IP纯净度高，快速响应，无限并发，99.9%的成功率，确保高效稳定连接，让您的业务得心应手
-
-5、新用户最高可免费领取1GB
-
-<a href="http://www.ipidea.net/?utm-source=facert&utm-keyword=?facert"><img src="https://raw.githubusercontent.com/facert/awesome-spider/8b0afba41e14f296e31f2b36f6329135bac5a746/proxy-ipidea.png"></a>
+[Brigtdata，旧名Luminati](https://brightdata.grsm.io/zhangchaoran5322) 目前海外最牛的代理 IP 提供商，代理抓取成功率 99%。 现在在搞优惠活动，需要高质量稳定代理的可以考虑一下，客户使用任何套餐都送 150-250 美金. 点击链接注册后根据邮件联系中文客服。
 
 ----------------------------
 
