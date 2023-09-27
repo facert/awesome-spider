@@ -49,6 +49,7 @@ warning: 爬虫有时效性，如没法直接运行，请适当更改逻辑。
 
 ### E
 * [E绅士](https://github.com/shuiqukeyou/E-HentaiCrawler)
+* [易采集EasySpider](https://github.com/NaiboWang/EasySpider)
 
 ### G
 * [Girl-atlas](https://github.com/pein0119/girl-atlas-crawler)
